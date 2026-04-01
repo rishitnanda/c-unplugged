@@ -1,6 +1,3 @@
-- Name: Rishit Nanda
-- Roll No: 2025111008
-
 ## Command Line Interface
 - All commands can be listed by using the HELP command.
 - To use any specific command, write it down in its given syntax in the command menu.
